@@ -15,12 +15,12 @@
 // school
 // #define WIFI_SSID "UCSD-PROTECTED"
 // #define WIFI_USERNAME "sbulatao" 
-// #define WIFI_PASSWORD "Bluemoon1sqxst*"
+// #define WIFI_PASSWORD "password"
 // #define NON_ENTERPRISE_WIFI_PASSWORD ""
 // #define UCSD_PID "A17239438"
 // home
-#define WIFI_SSID "NETGEAR68"
-#define WIFI_PASSWORD "melodicbird404"
+#define WIFI_SSID "wifi"
+#define WIFI_PASSWORD "password"
 
 // Firebase Configuration
 #define FIREBASE_HOST "https://ece-196scamproject-default-rtdb.firebaseio.com/"
